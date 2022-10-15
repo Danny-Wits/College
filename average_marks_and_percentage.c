@@ -5,7 +5,7 @@ int main()
    "Now enter your marks in Mathametics  here: ");  
    scanf("%f",&m);
    printf("Enter your marks in English here: ");
-   scanf("%f",&e);
+scanf("%f",&e);
    printf("Enter your marks in Science here: ");
    scanf("%f",&s);
    printf("Enter your marks in Hindi here: ");

@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.php": "php",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "exception": "cpp",
+    "fstream": "cpp",
+    "*.tcc": "cpp"
+  }
+}
